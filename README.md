@@ -8,11 +8,11 @@
 # 基础上手
 利用 Python 进行深度学习代码编写, 个人建议使用 Anaconda 配置代码环境. 
 Anaconda 的优势有:
-1. Anaconda 可以自己虚拟出一个 Python 环境, 与服务器安装的 Python 隔离开, 方便大家同时使用不同版本的 Python(同时跑 Python2, Python3)、不同版本的 Python 包(例如不同版本的 Tensorflow).
+1. Anaconda 可以自己虚拟出一个 Python 环境, 与服务器安装的 Python 隔离开, 方便大家同时使用不同版本的 Python (同时跑 Python2, Python3)、不同版本的 Python 包(例如不同版本的 Tensorflow ).
 2. Anaconda 不仅能提供 Python 的环境, 也可以提供其他的开发环境 G++, CUDA等, 方便大家进行其他代码的编写和运行.
 3. 可以直接安装各类包, 免去了自己找包 -> 下载 -> 安装 -> 安装失败 -> ... 无限循环的困境.
 
-入门上手可以阅读[conda 使用教程](https://conda.io/docs/user-guide/getting-started.html).
+入门上手可以阅读 [conda 使用教程](https://conda.io/docs/user-guide/getting-started.html).
 
 # FAQ
 1. Anaconda 的更新速度很慢怎么办? 
